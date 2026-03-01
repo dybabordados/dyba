@@ -23,7 +23,7 @@ const products = [
     id: "ecobag-girassol",
     name: "Ecobag Girassol",
     price: 30.0,
-    image: "./assets/ecobag-girassol.png",
+    image: "./assets/ecobag-girassolv1.png",
     description: "Um clássico solar, com presença e delicadeza no dia a dia.",
     message: "Olá! Quero comprar a Ecobag Girassol (R$ 30,00). Pode me ajudar com o pagamento e entrega?"
   },
