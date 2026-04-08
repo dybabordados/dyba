@@ -1,5 +1,5 @@
 // ====== CONFIG ======
-const WHATSAPP_NUMBER = "5585996484014"; // +55 85 99648-4014
+const WHATSAPP_NUMBER = "5585989484221"; // +55 85 99648-4014
 
 function waLink(message) {
   const text = encodeURIComponent(message);
